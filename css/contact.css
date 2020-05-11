@@ -1,0 +1,28 @@
+.contact .form{
+  width: 480px;
+}
+.contact th{
+  width: 150px;
+  display:table;
+  text-align:right;
+}
+.contact tr{
+   height: 7rem;
+}
+.send{
+  border: solid 1px #ADD8E6;
+  background-color: #ADD8E6;
+  color:white;
+  height: 3rem;
+  width: 7rem;
+  text-align: center;
+  padding:1rem;
+  font-size: 3rem;
+  margin-left: 300px;
+}
+.send:hover{
+  opacity:0.5;
+}
+.sex{
+  float: left;
+}
