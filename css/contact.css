@@ -1,10 +1,17 @@
-.contact .form{
+.name{
   width: 480px;
 }
-.contact th{
+.mail{
+  width: 480px;
+}
+.question{
+   width: 480px
+}
+.table_head{
   width: 150px;
-  display:table;
-  text-align:right;
+  text-align: right;
+  padding:0;
+  margin:0;
 }
 .contact tr{
    height: 7rem;
@@ -23,6 +30,13 @@
 .send:hover{
   opacity:0.5;
 }
-.sex{
-  float: left;
+.sex_check{
+  display: table;
+}
+.content{
+  padding: 0;
+  margin: 0;
+}
+.content{
+   margin-top:0;
 }
